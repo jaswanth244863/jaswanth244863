@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a new project<br>🌱 I’m currently learning python programing  ,android programing<br>💬 I'm studying in diploma final year<br>thanks for visiting my profile
+🔭 I’m currently working on a new project<br>🌱 I’m currently learning python programing  ,android programing<br>💬 I'm studying in diploma final year<br>
 
 
 ## 🌐 Socials:
